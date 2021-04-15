@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Proyect</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="main conteiner">
+       <header>
+         <ul>
+            <div class="logo">
+              <img src="img/Logo-proy.jpg">
+            </div>
+            <div class="publicaciones">
+                  <p>Publicaciones</p>
+            </div>
+          <div class="public">
+             <a href="#">
+                <img src="img/public.jpg">
+             </a>
+            <div class="publicacion">
+             <a href="#">
+                <img src="img/Valorant-Sova.png">
+             </a>
+          <a class="Boton" href="LearnMore">Acceder al calendario</a>
+					</div>
+          <a class="Boton1" href="LearnMore">Sede Cajicá</a>
+					</div>
+          </div>
+       </header>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
