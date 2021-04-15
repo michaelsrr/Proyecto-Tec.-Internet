@@ -1,0 +1,114 @@
+body{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+}
+.logo{   
+    position: relative;
+    top: 5px;
+    left: 500px;
+    display: flex;
+    flex-direction: row;
+    font-size: 12pt;
+    height:250px;
+}
+.fotperfil{   
+    position: relative;
+    top: 100px;
+    left: 290px;
+    display: flex;
+    flex-direction: row;
+    font-size: 12pt;
+    height:50px;
+}
+.descripcion{   
+    position: absolute;
+    top: 350px;
+    left: 600px;
+    font-size: 12pt;
+    height:5px;
+}
+.Nombredeusuario{   
+    position: relative;
+    top: 300px;
+    left: 290px;
+    display: flex;
+    flex-direction: row;
+    color:#1D1D1B;
+    font-size: 12pt;
+    height:5px;
+}
+.form{
+  position: relative;
+    top: 290px;
+    left: 500px;
+    height:5px;
+}
+.Cargo{   
+    position: relative;
+    top: 350px;
+    left: 290px;
+    display: flex;
+    flex-direction: row;
+    color: #1D1D1B;
+    font-size: 12pt;
+    height:5px;
+}
+.formu{
+  position: relative;
+    top: 340px;
+    left: 500px;
+    height:5px;
+}
+.Añodeingreso{
+    position: relative;
+    top: 400px;
+    left: 290px;
+    display: flex;
+    flex-direction: row;
+    color: #1D1D1B;
+    font-size: 12pt;
+    height:5px;
+}
+.formul{
+  position: relative;
+    top: 390px;
+    left: 500px;
+    height:5px;
+}
+.Sede{
+    position: relative;
+    top: 450px;
+    left: 290px;
+    display: flex;
+    flex-direction: row;
+    color: #1D1D1B;
+    font-size: 12pt;
+    height:5px;
+}
+.formula{
+  position: relative;
+    top: 440px;
+    left: 500px;
+    height:5px;
+}
+.logoU{
+    position: relative;
+    top: 280px;
+    left: 800px;
+    display: flex;
+    flex-direction: row;
+    font-size: 12pt;
+    height:200px;
+}
+.Boton{
+    position: relative;
+    top: 500px;
+    left: 700px;
+    border-radius: 10px;
+    padding: 1px;
+    color: #6EC5CF;
+    background-color: #256B74;
+    text-align:center;
+    width:200px;
+    height:50px;
+}
